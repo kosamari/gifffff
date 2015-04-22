@@ -1,3 +1,3 @@
 # gifffff
-handy gif tool
---- ery much work in progress --- 
+handy gif tool  
+--- this code does nothing right now. work in progress --- 
